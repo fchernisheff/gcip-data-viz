@@ -1,2 +1,4 @@
-# gcip-data-viz
-An interactive data visualization by the Global Cleantech Innovation Programme on income inequality, built on Python using Streamlit.
+## Visualisation of GCIP data on economic inequality 
+# An interactive data visualization by the Global Cleantech Innovation Programme on income inequality, built on Python using Streamlit.
+
+The code allows you to run an interactive interface on a local network using tools the Streamlit library for Python, providing a visually appealing way to view information about income inequality in different countries around the world using GCIP data. There is a filter by country and by year. The metrics used are the average monthly income of each of the 10 income deciles, the TopBottomRatio (Decile 1 / Decile 10), the Top10Share (the percentage of national wealth concentrated in the top 10% of the population), and the relative income level of each decile compared to the average income of the first decile. There is also a heat map showing the income distribution of each decile.
